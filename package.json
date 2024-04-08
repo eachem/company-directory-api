@@ -17,6 +17,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "@vueuse/firebase": "^10.8.0",
     "autoprefixer": "^10.4.17",
+    "axios": "^1.6.8",
     "firebase": "^10.6.0",
     "plugin": "^0.0.15",
     "postcss": "^8.4.35",
